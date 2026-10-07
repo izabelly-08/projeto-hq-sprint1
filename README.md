@@ -15,5 +15,5 @@ Este repositório é dedicado ao desenvolvimento colaborativo de uma História e
 - **Objetivo Principal:** Desenvolver uma HQ completa com pelo menos 10 quadrinhos... aplicando conceitos de engenharia de software, versionamento no GitHub e geração de imagens por IA. (incompleto)
 
 ## 🔗 Links Úteis do Projeto
-- **Quadro Kanban / Sprint Backlog:** link git hub projects
+- **Quadro Kanban / Sprint Backlog:** (https://github.com/users/izabelly-08/projects/1/views/1)
 - **Product Backlog:** link do backlog 
