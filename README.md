@@ -21,5 +21,5 @@ O projeto da HQ **"Colaboração, desenvolvimento ágil e uso de IA na criação
 - **Objetivo Principal:** Desenvolver uma HQ completa com pelo menos 10 quadrinhos sobre o tema escolhido, aplicando conceitos de engenharia de software, versionamento no GitHub e geração de imagens por IA.
 
 ## 🔗 Links Úteis do Projeto
-- **Quadro Kanban / Sprint Backlog:** (https://github.com/users/izabelly-08/projects/1/views/1)
-- **Product Backlog:** [https://github.com/users/izabelly-08/projects/1/views/1]
+- **Quadro Kanban** (https://github.com/users/izabelly-08/projects/1/views/1)
+- **Product Backlog:** (https://github.com/users/izabelly-08/projects/1/views/3)
